@@ -47,7 +47,6 @@
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashMap;
-
 import java.util.*;
 
 class Solution 
@@ -56,6 +55,7 @@ class Solution
     {
         char[] chars = str.toCharArray();
         Arrays.sort(chars);
+        
         return new String(chars);
     }
     
@@ -83,7 +83,8 @@ class Solution
         }
         
         // Construct the final result
-        for (ArrayList<String> group : pairs.values()) {
+        for (ArrayList<String> group : pairs.values()) 
+        {
             allGroupedAnagrams.add(group);
         }
         
