@@ -40,7 +40,7 @@ class Solution
         {
             reversedString.append(stackofCharacters.pop());   
         }
-        
+        //Return True if they are a valid palindrome
         if (forwardString.toString().equalsIgnoreCase(reversedString.toString()))
         {
             isValid = true;
