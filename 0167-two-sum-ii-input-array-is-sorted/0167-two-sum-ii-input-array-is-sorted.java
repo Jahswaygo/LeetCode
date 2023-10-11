@@ -19,8 +19,7 @@ class Solution
         int index=0;
         for (int i = 0; i < numbers.length; i++) 
         {
-            index++;
-            numMap.put(numbers[i], index);
+            numMap.put(numbers[i], ++index);
         }
 
         //Check the map for complements
