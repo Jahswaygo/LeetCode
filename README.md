@@ -9,3 +9,19 @@
     Created using
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card"> <img src="https://img.shields.io/badge/-LeetCode_Stats_Card-purple?logo=github&logoColor=pink&style=flat" alt="LeetCodeStats" /> </a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jahswaygo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jahswaygo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jahswaygo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics End-->
