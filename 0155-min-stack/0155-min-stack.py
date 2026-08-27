@@ -1,3 +1,11 @@
+#
+# @lc app=leetcode id=155 lang=python
+#
+# [155] Min Stack
+#
+
+# @lc code=start
+
 class MinStack(object):
 
     def __init__(self):
@@ -7,16 +15,14 @@ class MinStack(object):
     def push(self, value):
         self.stack.append(value)
 
-        if not self.min_stack:
+        if not self.min_stack or value <= self.min_stack[-1]:
             self.min_stack.append(value)
-        else:
-            self.min_stack.append(
-                min(value, self.min_stack[-1])
-            )
 
     def pop(self):
-        self.stack.pop()
-        self.min_stack.pop()
+        value = self.stack.pop()
+
+        if value == self.min_stack[-1]:
+            self.min_stack.pop()
 
     def top(self):
         return self.stack[-1]
@@ -32,3 +38,6 @@ class MinStack(object):
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
+
+# @lc code=end
+
