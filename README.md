@@ -17,6 +17,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jahswaygo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Jahswaygo/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jahswaygo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jahswaygo/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jahswaygo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jahswaygo/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jahswaygo/LeetCode/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jahswaygo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
